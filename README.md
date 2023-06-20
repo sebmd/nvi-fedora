@@ -1,4 +1,4 @@
-# nvi fedora
+# nvi editor fedora
 
 Pakiety edytora tekstu NVI (4.4BSD re-implementation of vi)
 
